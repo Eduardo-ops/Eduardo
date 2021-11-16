@@ -22,6 +22,6 @@ Olá,  eu sou o Eduardo 👋
 ##
   
 <div>
-  <a href = "mailto:eduard0fo13@hotmail.com"><img src="https://www.ativasoft.com.br/blog/wp-content/uploads/2018/01/outlook_icon.jpg" height="30" width="40" target="_blank"></a>
+  <a href = "mailto:eduard0fo13@hotmail.com"><img src="https://technewsbrasil.com.br/wp-content/uploads/2021/02/Hotmail.jpg" height="30" width="40" target="_blank"></a>
   <a href="www.linkedin.com/in/eduardo-isidoro-goncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
