@@ -2,7 +2,7 @@ Olá,  eu sou o Eduardo 👋
 
 
 - 🔭 Hoje trabalho como desenvolvedor front-end e mobile.
-- 🌱 Estudando Typescript e Dart
+- 🌱 Estudando Javascript, Typescript e Dart
 - 😄 Pronouns: ele/dele
 
 <div>
