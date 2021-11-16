@@ -23,5 +23,5 @@ Olá,  eu sou o Eduardo 👋
   
 <div>
   <a href="mailto:eduardof013@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail" /></a> &nbsp;
-  <a href="www.linkedin.com/in/eduardo-isidoro-goncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](www.linkedin.com/in/eduardo-isidoro-goncalves)   
 </div>
