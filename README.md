@@ -22,6 +22,6 @@ Olá,  eu sou o Eduardo 👋
 ##
   
 <div>
-  <a href = "mailto:eduard0fo13@hotmail.com"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xmlspc.com.br%2Fnws%2Fcomo-configurar-o-encaminhamento-de-e-mail-do-hotmail-e-outlook%2F&psig=AOvVaw1C_PlAFAlr2lV2cnSh1Kkr&ust=1637155754736000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCNCC-N3-nPQCFQAAAAAdAAAAABAD" target="_blank"></a>
+  <a href = "mailto:eduard0fo13@hotmail.com"><img src="https://www.ativasoft.com.br/blog/wp-content/uploads/2018/01/outlook_icon.jpg" target="_blank"></a>
   <a href="www.linkedin.com/in/eduardo-isidoro-goncalves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
