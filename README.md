@@ -1,8 +1,8 @@
 Olá,  eu sou o Eduardo 👋
 
 
-- 🔭 Desenvolvedor front-end e mobile.
-- 🌱 Estudando Javascript, Typescript e Dart
+- 🔭 Buscando uma oportunidade!!!
+- 🌱 Estudando Angular e Java
 - 😄 Pronouns: ele/dele
 
 <div>
