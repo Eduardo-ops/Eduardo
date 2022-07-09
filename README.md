@@ -1,7 +1,7 @@
 Olá,  eu sou o Eduardo 👋
 
 
-- 🔭 Buscando uma oportunidade!!!
+- 🔭 Java Backend Developer!!!
 - 🌱 Estudando Angular e Java
 - 😄 Pronouns: ele/dele
 
