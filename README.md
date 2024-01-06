@@ -3,7 +3,6 @@ Olá,  eu sou o Eduardo 👋
 
 - 🔭 Java Backend Developer!!!
 - 🌱 Estudando Angular e Java
-- 😄 Pronouns: ele/dele
 
 <div>
   <a href="https://beacons.ai/eduardogoncalves">
